@@ -1,4 +1,4 @@
-package _3_conditional_statements;
+package _03_conditional_statements;
 
 public class LargestOfThreeNumbers {
     public static void main(String[] args) {
