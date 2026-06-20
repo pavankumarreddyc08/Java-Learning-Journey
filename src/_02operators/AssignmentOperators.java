@@ -1,4 +1,4 @@
-package _02_operators;
+package _02operators;
 
 public class AssignmentOperators {
     public static void main(String[] args) {

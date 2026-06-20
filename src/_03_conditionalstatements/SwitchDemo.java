@@ -1,4 +1,4 @@
-package _03_conditional_statements;
+package _03_conditionalstatements;
 
 public class SwitchDemo {
     public static void main(String[] args) {
