@@ -1,4 +1,4 @@
-package _03_conditionalstatements;
+package _03_conditional_statements;
 
 public class EvenOdd {
     public static void main(String[] args) {

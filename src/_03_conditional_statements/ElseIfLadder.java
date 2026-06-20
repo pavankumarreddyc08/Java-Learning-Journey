@@ -1,4 +1,4 @@
-package _03_conditionalstatements;
+package _03_conditional_statements;
 
 public class ElseIfLadder {
     public static void main(String[] args) {
