@@ -3,9 +3,9 @@ package _07_methods;
 class Calculator3{
     int a=10;
     int b=20;
-
+    int c;
     int add(){
-        int c=a+b;
+        c=a+b;
         return c;
     }
 }

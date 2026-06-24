@@ -1,9 +1,9 @@
 package _07_methods;
 
 class Calculator4{
-
+    int c;
     void add(int a, int b){
-        int c=a+b;
+        c=a+b;
         System.out.println(c);
     }
 }
